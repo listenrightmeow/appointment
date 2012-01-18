@@ -2,6 +2,8 @@
 ----
 Set an option list of incremented timeslots based upon user date selection with a datepicker like Daterange (https://github.com/mdyer/daterange).
 
+See a demo of the plugin here : http://jsfiddle.net/listenrightmeow/jLHzK/
+
 ``` js
 .appointmentTime('15 minutes', '10/11/12', '8:00AM - 5:00PM');
 
@@ -30,7 +32,7 @@ hours
 *not case sensitive
 ```
 ## Support
-This can run by itself in a browser that supports querySelector
+This can run by itself in a browser that supports querySelector of you can edit the selector call to getElementById
 
 ### Ender
 Maybe soon
